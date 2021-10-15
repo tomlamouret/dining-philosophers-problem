@@ -1,5 +1,7 @@
 # COMP5461-dining-philosophers-problem
 
+**COMP5461 Operating Systems**
+
 **Dining Philosophers Problem**
 
 **Objective**
