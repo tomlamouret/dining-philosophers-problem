@@ -1,4 +1,4 @@
-# COMP5461-dining-philosophers-problem
+# dining-philosophers-problem
 
 **COMP5461 Operating Systems**
 
